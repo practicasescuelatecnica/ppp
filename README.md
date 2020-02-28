@@ -1,3 +1,3 @@
 # ppp
 
-pagina de pracicas tecnica 1
+pagina de practicas tecnica 1
